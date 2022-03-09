@@ -1,0 +1,14 @@
+.main > *{
+    justify-content: center;
+    text-align: center;
+}
+
+.horizontal{
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+}
+
+.horizontal > a {
+    margin-right: 2%;
+}
